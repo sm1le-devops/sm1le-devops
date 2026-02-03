@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a Fullstack Developer specializing in building scalable and modern web applications.<br/>
+I am Vladislav Alabushev , a Fullstack Developer specializing in building scalable and modern web applications.<br/>
 My experience covers backend (Python, FastAPI, PostgreSQL, Redis, Docker, DevOps) and frontend ( TypeScript or JavaScript, CSS, HTML5). <br/>
 I focus on writing clean and maintainable code, ensuring scalability and high performance.<br/>
 
